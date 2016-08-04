@@ -1,0 +1,48 @@
+_repo: Beethoven-the-Man-and-the-Artist-as-Revealed-in-His-Own-Words_3528
+_version: 0.0.1
+alternative_title: Beethoven im eigenen Wort. English
+creator:
+  author:
+    agent_name: Beethoven, Ludwig van
+    aliases:
+    - Van Beethoven, Ludwig
+    - Beethoven, Ludwig von
+    - Beethoven, L. van (Ludwig)
+    birthdate: 1770
+    deathdate: 1827
+    gutenberg_agent_id: '75'
+    url: http://www.gutenberg.org/2009/agents/75
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_van_Beethoven
+  editors:
+  - agent_name: Kerst, Friedrich
+    birthdate: 1870
+    gutenberg_agent_id: '2082'
+    url: http://www.gutenberg.org/2009/agents/2082
+  - agent_name: Krehbiel, Henry Edward
+    alias: Krehbiel, H. E. (Henry Edward)
+    birthdate: 1854
+    deathdate: 1923
+    gutenberg_agent_id: '1296'
+    url: http://www.gutenberg.org/2009/agents/1296
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Edward_Krehbiel
+description: Ludwig van Beethoven (1770-1827) is widely considered to be one of the
+  pre-eminent classical music figures of the Western world. This German musical genius
+  created numerous works that are firmly entrenched in the repertoire. Except for
+  a weakness in composing vocal and operatic music (to which he himself admitted,
+  notwithstanding a few vocal works like the opera "Fidelio" and the song "Adelaide,
+  "), Beethoven had complete mastery of the artform.
+gutenberg_issued: '2002-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Composers -- Germany -- Biography'
+- !lcsh 'Beethoven, Ludwig van, 1770-1827'
+- GITenberg
+title: Beethoven, the Man and the Artist, as Revealed in His Own Words
+url: http://www.gutenberg.org/ebooks/3528
