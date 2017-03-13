@@ -1,6 +1,9 @@
 _repo: Beethoven-the-Man-and-the-Artist-as-Revealed-in-His-Own-Words_3528
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Beethoven im eigenen Wort. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Beethoven, Ludwig van
@@ -31,6 +34,8 @@ description: Ludwig van Beethoven (1770-1827) is widely considered to be one of 
   a weakness in composing vocal and operatic music (to which he himself admitted,
   notwithstanding a few vocal works like the opera "Fidelio" and the song "Adelaide,
   "), Beethoven had complete mastery of the artform.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3528#Beethoven-the-Man-and-the-Artist-as-Revealed-in-His-Own-Words
 gutenberg_issued: '2002-11-01'
 gutenberg_type: Text
 identifiers:
